@@ -1,4 +1,4 @@
-# -
+# Movie-Data-Spider-and-Visualization-Analysis-Platform
 
 运行项目前先解压doubanMovie_flask文件夹中的static.zip与templates.zip
 
