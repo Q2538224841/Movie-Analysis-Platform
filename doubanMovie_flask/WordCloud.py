@@ -1,6 +1,5 @@
 # -*- coding = utf-8 -*-
 # @Time : 2023/6/12 2:06
-# @Author : 李力
 # @File : WordCloud.py
 # @Software : PyCharm
 

@@ -1,6 +1,5 @@
 # -*- coding = utf-8 -*-
 # @Time : 2023/6/1 9:51
-# @Author : 李力
 # @File : crawler.py
 # @Software : PyCharm
 

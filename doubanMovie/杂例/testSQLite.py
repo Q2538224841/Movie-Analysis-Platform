@@ -1,6 +1,5 @@
 # -*- coding = utf-8 -*-
 # @Time : 2023/6/1 10:04
-# @Author : 李力
 # @File : testSQLite.py
 # @Software : PyCharm
 
